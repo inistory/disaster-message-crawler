@@ -26,3 +26,4 @@ http://apis.data.go.kr/1741000/DisasterMsg2/getDisasterMsgList?ServiceKey=인증
 * numOfRows: 몇개의 row 묶음을 가져올 건지
 
  
+* https://inistory.tistory.com/17?category=915877
